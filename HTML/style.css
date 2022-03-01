@@ -1,0 +1,43 @@
+body{
+    background-image: url(../img/photo-1596350327329-936d8e22d1fbjfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+
+#header{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+#container2{
+    border: 1px solid peachpuff;
+    margin-bottom: 100px;
+    background-color: beige;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.klicka {
+    display: block;
+    margin-left: 60px;
+    color: peachpuff;
+}
+
+#knapp1{
+    display: block;
+    margin-left: 60px;
+    margin-top: 30px;
+    margin-bottom: 130px;
+    
+}
+
+
+#slumpa{
+    display: block;
+    margin-top: 30px;
+    margin-left: 60px;
+    
+}
